@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+node_modules/
+public_html/
+landing-page/
+package-lock.json
+package.json
+gulpfile.js
